@@ -1,11 +1,9 @@
-<h1 align="center">Oi, me chamo Guilherme</h1>
-<h3 align="center">Sempre em busca de conhecimento</h3>
+<h1>Guilherme Victor</h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=guivictorr&show_icons=true" alt="guivictorr" /></p>
+<p>Estudante de ReactJS, React Native e NodeJS</p>
 
-<p align="center">
-<a href="https://codepen.io/guifx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="guifx" height="20" width="20" /></a>
-<a href="https://twitter.com/ounicogui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ounicogui" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/guilhermeviictor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guilherme-victor-b33692195" height="20" width="20" /></a>
-<a href="https://instagram.com/guiivic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guiivic" height="20" width="20" /></a>
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-@ounicogui-292929?style=flat-square&labelColor=292929&logo=twitter&logoColor=white&link=https://twitter.com/ounicogui)](https://twitter.com/ounicogui) 
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Victor-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeviictor/)](https://www.linkedin.com/in/guilhermeviictor/) 
+[![Gmail Badge](https://img.shields.io/badge/-guivictorcontato@gmail.com-292929?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guivictorcontato@gmail.com)](mailto:guivictorcontato@gmail.com)
+
+<p>Olá, me chamo Guilherme Victor e estou atualmente no último ano do ensino médio e pretendo cursar a área de tecnologia. comecei a estudar programação no final do ano passado, hoje estou **estudando exclusivamente ReactJS, React Native e NodeJS** em geral e sonho em trabalhar nessa área algum dia.</p>
