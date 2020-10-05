@@ -1,6 +1,6 @@
 <h1>Guilherme Victor</h1>
 
-<p>Estudante de ReactJS, React Native e NodeJS</p>
+<p>Estudante de ReactJS, React Native, NodeJS e Typescript</p>
 
 [![Twitter Badge](https://img.shields.io/badge/-@ounicogui-292929?style=for-the-badge&labelColor=292929&logo=twitter&logoColor=white&link=https://twitter.com/ounicogui)](https://twitter.com/ounicogui) 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Victor-292929?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeviictor/)](https://www.linkedin.com/in/guilhermeviictor/)
