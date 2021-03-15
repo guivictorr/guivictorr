@@ -2,7 +2,7 @@
 
 <p>Estudante de ReactJS, React Native, NodeJS e Typescript</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@oguivictor-ffe33c?style=for-the-badge&labelColor=ffe33c&logo=twitter&logoColor=292929&link=https://twitter.com/oguivictor)](https://twitter.com/ounicogui) 
+[![Twitter Badge](https://img.shields.io/badge/-@oguivictor-ffe33c?style=for-the-badge&labelColor=ffe33c&logo=twitter&logoColor=292929&link=https://twitter.com/oguivictor)](https://twitter.com/oguivictor) 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Victor-ffe33c?style=for-the-badge&logo=Linkedin&logoColor=292929&link=https://www.linkedin.com/in/guilhermeviictor/)](https://www.linkedin.com/in/guilhermeviictor/)
 [![Website](https://img.shields.io/badge/-Portfólio-ffe33c?style=for-the-badge&link=https://guilhermevictor.live)](https://guilhermevictor.live) 
 
