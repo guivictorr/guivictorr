@@ -1,8 +1,11 @@
-<h1>Guilherme Victor</h1>
-
-<p>Estudante de ReactJS, React Native, NodeJS e Typescript</p>
+<h1>Hi 👋, I'm Guilherme Victor</h1>
 
 [![Twitter Badge](https://img.shields.io/badge/-@oguivictor-ffe33c?style=for-the-badge&labelColor=ffe33c&logo=twitter&logoColor=292929&link=https://twitter.com/oguivictor)](https://twitter.com/oguivictor) 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Victor-ffe33c?style=for-the-badge&logo=Linkedin&logoColor=292929&link=https://www.linkedin.com/in/guilhermeviictor/)](https://www.linkedin.com/in/guilhermeviictor/)
+<h3>A Young curious boy who loves fix problems with code</h3>
 
-<p>Olá, me chamo Guilherme Victor e Estudo programação a pouco mais de um ano, hoje estou <strong>estudando Next.js, ReactJS, React Native e Typescript</strong> em geral e sonho em trabalhar nessa área algum dia.</p>
+- 🌱 I’m currently learning **Angular**
+
+- 💬 Ask me about **React, Angular, Javascript and Typescript**
+
+- ⚡ Fun fact **I love science and astronomy**
