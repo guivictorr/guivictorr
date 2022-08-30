@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Victor-ffffff?style=for-the-badge&logo=Linkedin&logoColor=292929&link=https://www.linkedin.com/in/guilhermeviictor/)](https://www.linkedin.com/in/guilhermeviictor/)
 <h3>A young curious person who loves to create solutions for real-world problems.</h3>
 
-- 🌱 I’m currently studying Nodejs, Swift and Serveless databases.
-
 - 💬 Interested in React, Angular, Typescript, and Javascript 
 
 - ⚡ Fun fact I love science and astronomy
