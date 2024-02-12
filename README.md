@@ -6,4 +6,4 @@
 
 - 💬 Interested in React, Go, Typescript, and Node 
 
-- ⚡ Fun fact I love gaming, science and astronomy
+- ⚡ Fun fact I love gaming, science, pink floyd and astronomy
