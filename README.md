@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-261911?style=for-the-badge&logo=Linkedin&labelColor=fbf1c7&link=https://www.linkedin.com/in/guilhermeviictor/)](https://www.linkedin.com/in/guilhermeviictor/)
 <h3>A young curious person who loves to create solutions for real-world problems.</h3>
 
-- 💬 Interested in React, Go, Typescript and Node
+- 💬 Interested in React, Go, Typescript, Node and Neovim
